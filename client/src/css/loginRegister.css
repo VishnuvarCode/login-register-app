@@ -1,0 +1,7 @@
+.btn-login {
+  background: #ff00cc;
+  background: -webkit-linear-gradient(to right, #333399, #ff00cc);
+  background: linear-gradient(to right, #333399, #ff00cc);
+  color: aliceblue;
+  font-weight: 600;
+}
